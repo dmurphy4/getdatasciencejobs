@@ -1,2 +1,2 @@
-# getdatasciencejobs
-Just trying to see what one really should focus on to become a data scientist
+# Trying to get Data Science Jobs
+Instead of just trying to trust what many opinionated people on Medium or Quora might say about becoming a data scientist, we go straight to what the companies say. We use LinkedIn's job listings, and possibly others in the future.
