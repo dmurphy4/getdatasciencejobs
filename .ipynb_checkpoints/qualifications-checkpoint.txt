@@ -1,0 +1,297 @@
+Cyber Coders
+3 years' experience with statistical models OR machine learning methods.
+Experience on large scale computing systems like COSMOS OR Hadoop OR Mapreduce
+Bachelor's Degree
+MSc or PhD in a field like computer science, mathematics, statistics, machine learning, operations research, data mining, or AI
+Experience with Windows platform development in C++ and C# is a big plus
+Strong skills in SQL, R, Python, SAS and related tools for large scale analysis.
+Strong hands-on experience in machine learning.
+
+Neural Analytics
+BS in Computer Science, Statistics, Applied Mathematics, Bioinformatics or related technical field or equivalent practical experience
+2 years of professional data science experience
+Core strength in programming (Python, C/C++, Java)
+Experienced software development skills within a structured architecture
+Hands-on experience with statistical software (R, Matlab, Python)
+Self-motivated, intelligent individual with initiative and drive for overcoming technical challenges
+Outstanding problem solving and structuring as well as the ability to mine complex datasets and surface actionable insights
+Strong verbal and written communication skills
+Passion, integrity and commitment to excellence
+MS in Computer Science, Statistics, Applied Mathematics, Bioinformatics or related technical field or equivalent practical experience
+4 years of professional data science experience
+Experience with writing publications, patent applications and grant proposals
+Strengths in computer science, with competencies in data structures, algorithms and software engineering
+Experience with digital signal processing of time-series ultrasound, fMRI, ECG or similar medical data
+Ability to comprehend medical and technical literature
+Basic understanding of human physiology, especially cerebral hemodynamics
+
+Ebay
+PhD/MS Degree in Statistics/Economics/Mathematics or a quantitative field
+Knowledge of statistical techniques including regression, heavy-tailed distributions, extreme values, bootstrapping / jack-knife, factor analysis, heterogeneous treatment effects, post-stratification, experimental design, frequentist and Bayesian hypothesis testing, and instrumental variables.
+2-5+ years of relevant experience, preferably in business consulting, ecommerce or financial services
+Hands-on experience with SQL/Hive/Spark, data mining, Druid
+Hands-on experience with statistical tools like: Python, Java, Scala, R
+Experience in web or social analytics is preferred
+
+Microsoft
+M.S. or PhD degree in CS/EE or 4 years of work experience is
+Familiarity with distributed data processing/analysis and
+modeling paradigm, such as Map-Reduce and MPI, is
+preferred.
+Great design and problem solving skills, with a strong bias for
+quality and engineering excellence at scale.
+The most successful candidates will possess the ability to learn
+new techniques from textbooks or research papers and apply
+them to the business problem at hand.
+
+Apple
+M.S. in Computer Science, Mathematics, Economics, Operations Research or related field.
+B.S. in related field with 4+ years experience applying analytical techniques to real business problems.
+Ability to tell meaningful stories with data.
+Programming skills in Python
+Experience with SQL, database modeling and data warehousing principles.
+Creativity to go beyond current tools to deliver best solution to the problem.
+Data visualization experience in Matplotlib, Tableau, ggplot2 or a similar tool.
+Experience with data science algorithms including decision trees, probability networks, association rules, clustering, regression, and neural networks.
+Excellent interpersonal, written, and verbal communication skills.
+Ability and comfort working independently and making key decisions on projects.
+
+Hulu
+Master's degree in Statistics or related quantitative field (e.g. Computer Science, Econometrics, Mathematics, Physics, Operations Research).
+3+ years related experience such as analyzing data and/or building analytical models; in either an academic or professional setting and 3+ years relevant work experience.
+Experienced with scripting languages such as R, Python, Ruby or SAS.
+Real world analytical solution building experience.
+Ability to draw conclusions from data and recommend actions.
+Demonstrated self-direction.
+Proficient in prototyping models using scripting languages (e.g. Python, Ruby, etc.).
+PhD in in Statistics or related quantitative field (e.g. Econometrics, Mathematics, Physics, Operations Research).
+Experience in causal inference is a plus.
+
+GQR Global Markets
+Degree in Computer Science, Engineering, Statistics or other relevant field preferred
+Expert knowledge of R or Python and SQL
+Minimum 3 years of industry experience in data aggregation, data analysis
+Strong Analytical skills and good knowledge of statistics and data
+Finance experience is NOT a requirement
+Familiar with Hadoop, MapReduce, Spark or other Big Data Platforms
+Experience with sentimental analysis or working with alternative data.
+Proficiency in Scala
+Ambitious and self-motivated individual interested in working on systematic, event-driven strategies.
+
+Wipro Labs
+Minimum 9 year experience in modeling, statistical analysis and data driven insights
+Statistical Techniques: logistic regression, clustering , CHAID, Random forests, SVM, Naive Bayes classifier, neural network
+Statistical tools: R, Python, SAS
+Query Languages: SQL, Hive, Pig
+Excel, including pivots and advanced functions
+Master’s Degree in a quantitative discipline like Statistics / Economics / Operations Research/ Mathematics
+Excellent verbal and written communication skills in dealing with clients and stakeholders
+
+Moody's Analytics
+2+ years working as a data scientist
+Deep working experience applying machine learning and statistics to real world problems
+Fluency in a scripting language, such as Python, R, Javascript, for fast prototyping
+Ability to write complex SQL queries in short order
+Solid understanding of a wide range of data mining / machine learning software packages (e.g., Spark ML, scikit-learn, H2O, Weka, Keras)
+Experience with version control systems (git) and comfortable using command-line tools
+Excellent English communication skills, both written and verbal; must be able to communicate clearly with the core team as well as other teams in the company
+Excellent attention to detail, quality of work, and time management skills
+Positive, friendly attitude, desire for collaboration, and solid work ethic
+Knowledge of semantic web technology (e.g., RDF, OWL, SPARQL)
+Knowledge of search technologies (e.g., Solr, ElasticSearch)
+Expert knowledge of web analytics
+Experience using and building APIs
+Financial industry working knowledge
+PhD in a relevant field or equivalent experience
+
+M Science LLC
+Excellent understanding of machine learning techniques and algorithms, such as k-NN, Naive Bayes, SVM, Decision Forests, etc.
+Experience with common data science toolkits, such as NumPy, sparkML, scikitLearn, etc . Excellence in at least one of these is highly desirable
+Great communication skills
+Experience with data visualisation tools, such as D3.js, GGplot, etc.
+Proficiency in using query languages such as SQL, Hive
+Good applied statistics skills, such as distributions, statistical testing, regression, etc.
+Good scripting and programming skills (scala, python on a spark infrastructure)
+Data-oriented personality
+
+Adobe
+Ph.D. in CS, Math, Stats, EE, Physics, or related quantitative field
+Good command of statistics, AI/machine learning/data mining models and algorithms including classification, regression, and deep learning
+Strong object-oriented programming skills.
+Ability to write production-quality code in Scala, Java, or Python
+Experience with handling large data sets in distributed environments using Hadoop or Spark
+Experience with SciKit-Learn, Spark ML, Tensor Flow or related modeling tools
+Good communication skills as evidenced by a record of talks and publications
+Experience in specialized areas such as optimization, recommendation systems, clustering, and marketing applications of data science is a plus
+
+Google
+BA/BS degree in a quantitative discipline (e.g., data science, economics, computer science, mathematics, engineering discipline)
+2 years of relevant work experience in data analysis as well as business application
+Fluency with Python, R, SQL, Hadoop, and other relevant tools to manipulate and analyze big data.
+Demonstrated ability to analyze and distill data into actionable insights
+Demonstrated presentation skills to key stakeholders
+4+ years of relevant work experience in data analysis and business application
+Ability to influence at all levels and work effectively across functions and geographies
+Ability to dig in and understand the details of a problem while at the same time understanding the strategic view.
+
+Google
+PhD degree in a quantitative discipline (e.g. statistics, bioinformatics, computational biology, computer science, applied mathematics, or similar) or equivalent practical experience.
+2 years of experience in data analysis or related field.
+Experience with statistical software (R, S-Plus, SAS, or similar).
+Experience with databases and scripting languages (such as Python).
+1 year of relevant work experience (i.e., data scientist role), including deep expertise and experience with statistical data analysis such as linear models, multivariate analysis, stochastic models, sampling methods.
+Experience with Survey Sampling.
+Ability to draw conclusions from data and recommend actions.
+Demonstrated leadership and self-direction. Demonstrated willingness to both teach others and learn new techniques.
+
+Trilyon Inc.
+Ph. D in Electrical Engineering, Computer Sciences, or Mathematics with a minimum of 5 years of related work experience
+Must have experience with standard speech and machine learning techniques, NLP / NLU, scientific thinking, and the ability to invent
+A track record of thought leadership and contributions that have advanced the field
+Must be able to code with programming languages such as C/C++, Java, Perl or Python.
+PhD with specialization in speech recognition, natural language processing, or machine learning
+Strong publication record
+Strong software development skills
+Experience working effectively with science, data processing, and software engineering teams
+Excellent written and spoken communication skills.
+
+Agile SDE, LLC
+Minimum of PhD or Master’s degree in CS or Math/Data science or a relevant scientiﬁc discipline, combined with at least 3-5 years in a commercial environment developing various applications using Big Data technologies.
+Knowledge of basic NLP techniques such as stemming, tagging and entity-extraction,.
+Familiarity with modern ML and Deep Learning frameworks (at least one, the more the better): MLlib, Caffe, TensorFlow, MXNet, Torch, scikit
+Strong working knowledge of statistics.
+Industry experience building and productizing innovative end-to-end Machine Learning systems.
+Experience with metric/transfer learning and non-linear dimension reduction.
+Deep neural networks, Sequence-to-sequence models (RNNs, Pointer networks, etc.)
+Familiarity with ﬁrst order logic
+Practical knowledge of Python and Java/Scala
+
+Touch of Modern
+Master’s or PhD in statistics, econometrics, computer science, mathematics, or similar
+5+ years experience as a Data Scientist or similar role for Business Intelligence projects
+Experience with Redshift, large data ETL, and advanced SQL
+Experienced in machine learning and multivariate regression
+Extensive experience with Python, R or another statistical language
+Thorough understanding of Bayesian statistics and demonstrated ability to apply that knowledge effectively
+E-commerce experience - comfortable handling clickstream data combined with a deep understanding of LTVs, contribution margins, CACs, AOVs, etc. and appropriate ways to model them
+A deep sense of curiosity
+Obsession with data and algorithms to solve business problems
+Comfort working within a modern engineering environment (Linux, system architecture, Java, Python, R, multithreaded programming)
+Ability to script experimental solutions, select and use the most appropriate statistical analysis tools to answer specific business questions
+Thoughtful, results-driven personality, with a high level of enthusiasm, energy and confidence
+Excellent analytical, communication, organizational and presentation skills
+Ability to demonstrate flexibility and integrity: be able and willing to work hands on, independently or with a small team providing leadership
+Experience working at a growth-stage startup company
+Experience with large scale algorithm challenges
+
+Trulia
+Ph.D. or MS in Computer Science, Computer Vision, Machine Learning, Deep Learning or related field, or Bachelor’s with equivalent industry experience.
+Strong foundation in computer science, algorithms, data structures, machine learning and statistics
+Depth and breadth in state-of-the-art computer vision, deep learning and machine learning technologies
+2+ years of experience in computer vision or deep learning.
+Proficiency in Java, C++, Python or other equivalent languages
+Experience working with large datasets and Deep Learning algorithms
+Experience working with unstructured data like images and text and applying novel machine learning techniques to convert insights into products
+Excellent written and verbal communication skills and ability to communicate effectively to both technical and nontechnical audiences.
+Must be self-motivated and a strong team player
+Strong engineering and programming skills. Ability to write high performance production quality code.
+Track record of building and deploying into production innovative end-to-end machine learning systems.
+Proficiency in Python and scientific computing packages.
+Experience in understanding and implementing algorithms in computer vision and deep learning using both toolkits and self developed code
+Publications at top-tier peer-reviewed conferences or journals or a proven track record of industry innovation in creating novel algorithms
+Experience with information retrieval or text mining.
+Good understanding of common families of models, feature engineering, feature selection and other practical machine learning issues, such as overfitting
+Experience with Hadoop and MapReduce
+Experience working with Natural Language Processing to understand text content
+Strong programming skills in C/C++
+Experience deploying pipelines to AWS or cloud services.
+Familiarity with vision systems on mobile devices.
+Experience with computer vision/machine learning libraries such as OpenCV, sklearn, xgboost, etc.
+Experience with deep learning frameworks such as Caffe, TensorFlow, Theano, Torch, etc
+Experience with large-scale distributed systems and frameworks
+Experience with technologies like Solr, Kafka, Hadoop, Spark, Redis, etc
+Experience with designing crowd sourcing experiments and crowd sourcing platforms like Amazon Mechanical Turk (AMT)
+Experiences with GPUs.
+Familiarity with parallel programming, ideally CUDA C/C++
+Contributor to open source machine learning/computer vision/deep learning libraries
+Experience working with Academic Datasets like ImageNet, Places, etc.
+Experience with distributed training of deep neural networks - data parallelism, model parallelism
+
+Bluevine
+Bachelor’s Degree in Computer Science, Statistics, Economics, Mathematics , Information Systems or equivalent technical degree.
+2 years of hands-on experience as a Data Scientist, Machine Learning engineer or a comparable analytical position.
+2 years of hands-on experience with Python or R and the supporting analysis libraries / ecosystem.
+Proven track record in developing Direct Mail models and other models in the fields of marketing / revenue / consumer behavior, such as: Response models, LTV, Churn & AB testing.
+An excellent understanding of both traditional statistical modeling and Machine Learning techniques and algorithms: Regression, clustering, ensembling (random forest, gradient boosting), deep learning (neural networks), etc.
+Proficiency with SQL and experience in working with databases.
+Familiarity with Git and Linux / OS command line.
+Self-starter excited to learn unfamiliar concepts on the job.
+Delivery-oriented approach - ability to get things done within a strict time frame / ability to juggle multiple assignments.
+Deep interest in learning both the theoretical and practical aspects of working with and deriving insights from data.
+Great communication skills.
+Master’s Degree in Computer Science, Statistics, Economics, Mathematics, Information Systems or equivalent.
+Excellent Python programming skills.
+PostgreSQL / Redshift hands-on experience.
+Experience in working with Amazon AWS ecosystem.Experience with remote development & distributed development architectures.
+
+AirBnB
+A passion for Airbnb’s mission of helping people Belong Anywhere
+Work experience in performance marketing and significant understanding of major advertising platforms (Google Adwords, DoubleClick, Facebook Ads) is a plus
+3+ years in industry or a PhD in a quantitative field with strong emphasis in experimentation
+A “business owner” mindset, with a keen interest in strategy and operations
+Strong interpersonal and relationship-building skills
+Excellent written and verbal communication skills
+Ability to identify and “sell” data-informed business recommendations to stakeholders
+Fluency in the core toolkit of Data Science:
+Python/R, SQL/Hive, unix/scripting
+Manipulating large-scale data sets
+Building data pipelines
+Implementing visualizations, dashboards, and reports
+Experimental design and interpretation
+Descriptive and predictive modeling
+
+SoFi
+Experience in Python and data science packages such as pandas and scikit-learn.  
+Experience demonstrating detailed knowledge (including understanding of strengths and  weaknesses of various approaches), application, analysis, and development utilizing machine learning.
+Previous work that used deep learning frameworks such as Tensorflow (prefered) or others such as PyTorch or Theano.
+Teamwork, responsiveness to stakeholders, and ability explain mathematical concepts  
+Passionate about innovation and pushing state of the art research
+Expertise with different deep learning architectures such as RNN, LSTM, GRU, DFF and GANs.
+2-3 years using Python with scikit-learn and pandas to work with deep learning platforms.
+SQL via Python libraries such as SQLAlchemy
+PhD or Masters in mathematics, statistics, economics, computer science, or information science.
+Deep learning with high-dimensional data.
+Understanding of financial terms and concepts  
+NLP and machine reading with deep learning.
+
+Chewy
+MS/PhD in Operations Research/Statistics/Computer Science/Engineering/Physics/Math or a related technical discipline
+5 years of Experience in the field of data mining, machine learning, statistical modeling tools and underlying algorithms
+Experience working with any relational databases and SQL
+Programming experience in one or more of the languages like R/Python/Ruby/Perl/Shell/C
+PHD in Mathematics or Statistics
+Advanced Mathematical Training: Mathematical Modeling, Statistical Analysis, Forecasting Models and Margin Engineering (cross elasticity, demand curve modeling)
+Extensive experience solving analytical problems using quantitative approaches
+Strong knowledge and experience using major statistical analysis tools such as R/ Python/SAS/Apache Spark
+Creation and implementation of statistical predictive models including such algorithms as decision tress, clustering, classification, association etc
+Ability to communicate complex quantitative analysis in a clear, precise, and actionable manner with both technical and non-technical customers
+Experience working with large data sets. Experience working with distributed computing tools a plus (Map/Reduce, Hadoop, Hive etc.)
+
+Verizon
+Bachelor’s degree our four or more years of work experience.
+Six or more years of relevant work experience.
+Six or more years of experience in business analysis, solution design, systems analysis, business/management consulting, process mapping and engineering.
+Bachelor’s degree in Computer Science, Engineering, or Information Systems.
+MBA or MS degree.
+Strong knowledge of the IT function and how IT enables the business through effective strategic planning, governance and management discipline.
+Excellent engagement, leadership, business acumen and influencing skills.
+10 or more years of working experience in business analysis, solution design, systems analysis, business/management consulting, process mapping and engineering.
+Excellent program/ project management skills to build and execute project plans with clearly defined deliverables, timelines, and ownerships.
+Demonstrated history of partnering with other business and IT advisory practices/functional practitioners to develop an integrated go-to-market approach and deliver cross-functional solutions.
+Experience in defining the Enterprise wide architecture from data acquisition through to information delivery using the Business Intelligence tools.
+Experience in evaluating options for meeting data sourcing needs and ensures that system requirements are identified, prioritized and incorporated in an effective, efficient manner.
+Organize data acquisition work and deliverables and integrate/synthesize broad and diverse inputs and large amounts of information to formulate cohesive data requirements.
+Engineering, Financial and Modeling skills and knowledge.
+Experience of designing and implementing service models for platforms (Centrally or locally).
+Experienced SAS skills in Data management, Tableau, SQL, BASE, and in MS Suite (Word, Excel, PowerPoint, and Visio).
+
